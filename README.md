@@ -8,6 +8,7 @@ Simulation Methods: Discrete Event
 Tags: Business Process Optimization, Fabrication Process, Manufacturing Process
 
 Description:
+
 The project aims to model and analyze the operation of complex systems to support management decision-making and optimize production processes by improving the revenue, profit, efficiency, reducing manufacturing costs, backlogs, and lead time.
 
 The objective of this project is to model and analyze the operation of complex systems to support management decision-making, and optimize production processes by improving the company's revenue, profit, efficiency, and reducing manufacturing costs, backlogs, and lead time. See the following detail:
