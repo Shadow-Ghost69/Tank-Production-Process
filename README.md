@@ -1,11 +1,11 @@
 # Tank-Production-Process
 Categories: Manufacturing, Business Process
 
-Application Areas: Manufacturing, Manufacturing Planning, Fabrication, Facility Fabrication
+Application Areas: Manufacturing, Fabrication, Facility Fabrication, assembly line
 
 Simulation Methods: Discrete Event
 
-Tags: Business Process Optimization, Fabrication Process, Manufacturing Process
+Tags: Business Process Optimization, Fabrication Process, Manufacturing Process, Manufacturing Planning
 
 Description:
 
